@@ -1,0 +1,10 @@
+{
+	"id": "NAME",
+	"name": "Bleak complex",
+	"authors": "You",
+	"description": "Insert.",
+	"requirements": ["regionkit", "pom", "rwremix", "crs", "moreslugcats"],
+	"requirements_names": ["RegionKit", "Pom", "Rain World Remix", "Custom Regions Support", "moreslugcats"],
+	"tags": ["Regions"],
+	"checksum_override_version": true
+}

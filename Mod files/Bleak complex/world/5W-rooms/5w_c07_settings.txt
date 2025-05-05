@@ -1,0 +1,4 @@
+Template: NONE
+Grime: 0.07681175
+Palette: 21
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><718.7176><447.4501><0.5><1, OMNI><AM_SUB-CaveTone.ogg><741.0704><251.688><0.2507245><1, 

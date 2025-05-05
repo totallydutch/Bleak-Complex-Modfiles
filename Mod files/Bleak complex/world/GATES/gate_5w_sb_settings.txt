@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 1
+Grime: 0.05217378
+Palette: 21
+Effects: LightBurn-0-20-20, 
+PlacedObjects: ExitSymbolShelter><735.8955><112.9397><, 
+FadePalette: 10, 0.2782609

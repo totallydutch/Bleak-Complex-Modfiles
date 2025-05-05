@@ -1,0 +1,8 @@
+Template: NONE
+Grime: 0
+Palette: 21
+EffectColorA: 18
+EffectColorB: 5
+Effects: LightBurn-0.394203-20-20, 
+PlacedObjects: LightSource><1510.864><255.8643><0.4724638~Environment~-120~122.4~50~86.60254~1~0~None~0~0, LightSource><1627.791><303.9931><0.4956519~Environment~0~100~239.3333~-44.06412~1~0~None~0~0, LightSource><1435.776><316.5999><0.2811598~Environment~-27.19995~118.1333~50~86.60254~1~0~None~0~0, LightSource><1482.794><340.8589><0.3333342~Environment~-150.9333~191.2~50~86.60254~1~1~None~0~0, LightSource><1312.778><533.6892><0.2347825~Environment~-82.66672~40.80005~-434.2666~-40.33084~1~1~None~0~0, LightSource><1339.983><581.733><0.3217392~Environment~-43.73334~31.73334~-267.8666~-305.9308~1~1~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><759.785><447.3476><0.5><1, 

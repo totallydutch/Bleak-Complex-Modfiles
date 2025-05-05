@@ -1,0 +1,3 @@
+Clouds: 0
+Grime: 0.1797101
+PlacedObjects: CustomEntranceSymbol><652.9058><333.9413><17.32051~-10~ShortcutDots~0.25, 

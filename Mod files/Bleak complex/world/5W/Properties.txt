@@ -1,0 +1,3 @@
+
+Room_Attr: 5W_A10: SmallCentipede-Avoid,Centipede-Avoid,
+Room_Attr: 5W_C04: SmallCentipede-Avoid,Centipede-Avoid,

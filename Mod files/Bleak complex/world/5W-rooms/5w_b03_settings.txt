@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5087202
+WaveLength: 0.9956399
+WaveAmplitude: 0.04142133
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.01739137
+Grime: 0.04202901
+Palette: 21
+Effects: LightBurn-0.2956523-20-20, 
+PlacedObjects: LightSource><720.6059><341.5669><0.3333329~Environment~-156.8~185.3333~50~86.60254~1~0~None~0~0, LightSource><596.653><475.0327><0.2811591~Environment~-89.06671~108~-338.8~-67.53076~1~0~None~0~0, LightSource><721.8013><337.5975><0.1594212~Environment~-102.9335~139.4667~50~86.60254~1~1~None~0~0, LightSource><589.1936><508.7369><0.2985502~Environment~-113.0667~103.7333~-417.2~-31.26416~1~1~None~0~0, LightSource><1170.358><426.7556><0.3217385~Environment~-114.1333~152.2667~-153.2~-237.1308~1~0~None~0~0, LightSource><1131.672><719.608><0.7333338~Environment~33.60004~-229.0667~-163.3333~-273.3975~1~1~None~0~0, LightSource><1171.32><422.0964><0.4144924~Environment~-67.19998~112.8~-136.1333~-205.1308~1~1~None~0~0, LightSource><1166.38><612.3461><0.6637679~Environment~-19.20001~-98.93329~-201.2~-283.5308~1~0~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><732.1937><560.2608><0.2623185><0.8747845, OMNI><AM_ENV-SubTerr.ogg><725.4492><450.0182><0.3782601><1, OMNI><AM_SUB-CaveTone.ogg><754.6826><253.0906><0.2275364><1, OMNI><AM_SUB-BlankState.ogg><757.5833><317.7885><0.3434786><1, 

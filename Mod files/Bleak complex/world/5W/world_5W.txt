@@ -1,0 +1,105 @@
+
+
+
+ROOMS
+
+GATE_5W_SB : 5W_B01, DISCONNECTED, DISCONNECTED, DISCONNECTED : GATE
+
+5W_S01 : 5W_B01 : SHELTER
+5W_S02 : 5W_C04 : SHELTER
+5W_S04 : 5W_B13 : SHELTER
+
+5W_SCAV1 : 5W_C01 : SCAVTRADER
+
+5W_A01 : 5W_C01, DISCONNECTED, 5W_B01
+5W_A02 : 5W_A04, DISCONNECTED, 5W_B03, DISCONNECTED
+5W_A03 : 5W_C06X, DISCONNECTED
+5W_A04 : 5W_C06X, 5W_A02
+5W_A05 : 5W_B06, 5W_A06, 5W_B04
+5W_A06 : 5W_A05 : SWARMROOM
+5W_A09 : 5W_B11, 5W_C10
+5W_A10 : 5W_B09X, 5W_B12, 5W_C04
+5W_A12 : 5W_A13, 5W_B11, DISCONNECTED
+5W_A13 : 5W_A14, 5W_A12
+5W_A14 : DISCONNECTED, 5W_A13
+5W_A16 : DISCONNECTED, DISCONNECTED, 5W_B15
+
+5W_B01 : GATE_5W_SB, 5W_A01, 5W_S01
+5W_B03 : 5W_A02, 5W_B04
+5W_B04 : 5W_A05, 5W_C07, 5W_B03
+5W_B06 : DISCONNECTED, 5W_A05
+5W_B09X : 5W_B10, 5W_C10, 5W_A10
+5W_B10 : 5W_B11, 5W_B09X
+5W_B11 : 5W_A12, DISCONNECTED, 5W_A09, 5W_B10
+5W_B12 : DISCONNECTED, 5W_A10
+5W_B13 : 5W_S04, DISCONNECTED
+5W_B15 : 5W_A16, DISCONNECTED, 5W_C10
+
+5W_C01 : 5W_C02X, 5W_SCAV1, 5W_A01
+5W_C02X : DISCONNECTED, DISCONNECTED, 5W_C07, 5W_C01
+5W_C04 : 5W_A10, DISCONNECTED, 5W_S02, 5W_C06X
+5W_C06X : 5W_C04, 5W_A04, 5W_A03
+5W_C07 : 5W_C02X, DISCONNECTED, 5W_B04, DISCONNECTED
+5W_C10 : 5W_A09, 5W_B15, 5W_B09X
+5W_C11 : DISCONNECTED, DISCONNECTED
+
+END ROOMS
+
+
+
+CREATURES
+
+
+
+
+//Boring survivor spawns
+
+
+//Monk Does not get anything special
+
+OFFSCREEN : 0-Scavenger-6
+
+// All the slug spawns
+
+5W_A03 : 2-BlueLizard
+5W_A04 : 2-TentaclePlant
+5W_A05 : 3-PinkLizard-2
+5W_A14 : 2-Pink
+
+5W_B01 : 5-Pink, 3-SmallCentipede-2
+5W_B04 : 3-SmallCentipede-4
+5W_B09X : 3-Centipede-{0.226}-3
+5W_B12 : 2-DropBug
+5W_B13 : 2-EggBug
+
+5W_C02X : 6-GreenLizard
+5W_C07 : 4-BigSpider-2, 6-Centipede-{0.226}-2
+(white,Yellow,Gourmand) : 5W_C10 : 3-SpitLizard
+
+LINEAGE : 5W_A12 : 3 : EggBug-0.1, DropWig-0.2, Centi-{0.8}-0.3, EggBug-0
+LINEAGE : 5W_A14 : 3 : SmallCentipede-0.6, Centi-{0.226}-0
+LINEAGE : 5W_A14 : 3 : Blue-0.03, Pink-0.64, Redlizard-0
+
+LINEAGE : 5W_B11 : 4 : Salamander-0.3, Blue-0.8, Pink-0.1, SpitLizard-0
+
+//Wet spawns
+
+(Rivulet) : 5W_C10 : 3-Eel-1
+(Rivulet) : 5W_A14 : 2-Snail-3, 3-Salamander
+(Rivulet) : 5W_A12 : 3-Snail-2
+(Rivulet) : 5W_B12 : 2-Eel
+
+//Hard spawns
+
+(Red,Spear,Artificer,Saint,Rivulet) : 5W_C10 : 3-Redlizard
+
+
+//Spawns for the geenm
+
+(saint) : 5W_B12 : 2-ZoopLizard-2
+
+//Cursed spawns >:D
+
+(Inv) : 5W_A12 : 3-Snail-50
+
+END CREATURES

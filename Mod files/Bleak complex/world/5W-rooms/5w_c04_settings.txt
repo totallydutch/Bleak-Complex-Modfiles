@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.1521739
+Palette: 21
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><727.4649><441.9243><0.5463761><0.916523, OMNI><AM_SUB-BlankState.ogg><718.1831><262.9492><0.5><1, 
+FadePalette: 23232323, 0.1043477, 0.05217395, 0

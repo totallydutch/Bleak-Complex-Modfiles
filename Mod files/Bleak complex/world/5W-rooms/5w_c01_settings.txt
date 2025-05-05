@@ -1,0 +1,7 @@
+Template: NONE
+Grime: 0.1217389
+Palette: 21
+EffectColorA: 18
+EffectColorB: 3
+AmbientSounds: OMNI><AM_SUB-MysticCave1.ogg><729.1851><234.2108><0.3724637><0.551304, OMNI><AM_SUB-BlankState.ogg><726.7817><298.9077><0.343478><1, OMNI><AM_SUB-CaveTone.ogg><723.713><366.5716><0.2623185><1, 
+FadePalette: 10, 0.22029, 0.2550726, 0.4115942

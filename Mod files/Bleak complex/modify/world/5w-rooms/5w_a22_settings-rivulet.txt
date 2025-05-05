@@ -1,0 +1,3 @@
+[MERGE]
+Clouds: 0.1449277
+[ENDMERGE]

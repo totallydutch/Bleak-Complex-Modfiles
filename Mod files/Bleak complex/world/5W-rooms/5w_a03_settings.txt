@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.01739137
+Grime: 0.1521739
+Palette: 21
+Effects: LightBurn-0.2840579-20-20, 
+PlacedObjects: LightSource><545.3275><179.5317><0.3043478~Environment~-29.86664~245.0667~50~86.60254~1~0~None~0~0, LightSource><546.2429><218.3472><1~Environment~4.800049~73.33331~50~86.60254~1~0~None~0~0, LightSource><512.5399><261.9547><0.2927538~Environment~-224~99.99997~50~86.60254~1~1~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><746.2293><446.3114><0.2971012><1, OMNI><AM_SUB-CaveTone.ogg><738.2499><249.6><0.2913042><1, OMNI><AM_SUB-BlankState.ogg><731.9277><264.1582><0.331884><1, 

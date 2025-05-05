@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.01159436
+Palette: 23232323
+EffectColorA: 10
+EffectColorB: 6
+Effects: LightBurn-0.1333331-20-20, 
+PlacedObjects: LightBeam><301.5099><401.8452><-153.6~515.2~83.20001~523.7333~248.5333~-328~-277.8667~-12.79999~0.2434779~0~0~1~None~0~0, LightSource><504.6373><198.0631><0.1246371~Environment~-60.2666~390.6667~50~86.60254~1~0~None~0~0, LightSource><410.4174><488.9115><0.1304345~Environment~72.53333~-268~-472.1333~-84.06412~1~0~None~0~0, LightSource><321.1533><826.1614><0.8608697~Environment~90.1333~-413.6~-19.8667~-216.8642~1~0~None~0~0, LightSource><473.5347><247.7992><0.3217395~Environment~-32~201.3333~50~86.60254~1~1~None~0~0, LightSource><407.9988><483.5156><0.2057973~Environment~-93.8667~178.9333~50~86.60254~1~1~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><782.3978><629.9403><0.3898554><1, SPOT><AM_ENV-LightWind.ogg><601.9838><621.3448><0.5><1><308.1171><744.8116><59.57806><-241.7553><0><0.360869, SPOT><AM_IND-Utility04.ogg><571.4725><-50.09239><0.5><1><560.2725><135.7743><-167.6221><-50.28867><0><0.3260876, SPOT><AM_IND-ElectricHum01.ogg><744.1343><300.5814><0.5><1><626.2677><573.3813><-10.82208><1.444672><0><0.1463762, DIR><AM_ENV-SubTerr.ogg><721.6577><445.7999><0.5><1><180><0, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>bm_ss_door<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>881.0014<tB>362.1359<tA>fireChance<tB>1<tA>entrance<tB>2<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>594.6014<tB>197.6027<tA>handlePos<tB>-104.6887<tB>161.978, 
+FadePalette: 21, 0.6463769

@@ -1,0 +1,5 @@
+Template: NONE
+Grime: 0.1304345
+Palette: 21
+EffectColorA: 18
+EffectColorB: 6

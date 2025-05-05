@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.01159436
+Grime: 0.06521739
+Palette: 21
+Effects: LightBurn-0.3304347-20-20, 
+PlacedObjects: LightSource><538.3702><263.8166><0.3391306~Environment~-82.66669~367.2~50~86.60254~1~0~None~0~0, LightSource><564.9406><271.0282><1~Environment~-58.66663~210.9333~50~86.60254~1~0~None~0~0, LightSource><568.127><278.9966><0.234783~Environment~-136.0001~224.2667~-312.1333~-92.06412~1~1~None~0~0, LightSource><508.4314><357.7365><0.4840572~Environment~-83.73334~124.5334~50~86.60254~1~1~None~0~0, LightSource><567.179><276.3203><0.4608695~Environment~-17.06671~129.8666~50~86.60254~1~1~None~0~0, DangleFruit><170.5337><319.2527><0~0~2~4, DangleFruit><203.9543><275.9703><0~0~2~3, DangleFruit><243.3163><298.2116><0~0~1~5, 
+FadePalette: 10, 0, 0.1217393

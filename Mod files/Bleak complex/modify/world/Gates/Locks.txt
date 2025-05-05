@@ -1,0 +1,3 @@
+[ADD]GATE_5W_SB : 4 : 5
+//[ADD]GATE_5W_SI : 4 : 4
+//[ADD]GATE_XX_XX : 5 : 5

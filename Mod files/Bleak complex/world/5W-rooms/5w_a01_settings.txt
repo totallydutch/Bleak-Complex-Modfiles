@@ -1,0 +1,5 @@
+Template: NONE
+Grime: 0
+Palette: 21
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><742.0721><325.6679><0.5><1, OMNI><AM_SUB-BlankState.ogg><736.9661><263.8371><0.5><1, OMNI><AM_SUB-MysticCave2.ogg><735.5864><182.1686><0.2391298><0.3843489, OMNI><SO_WAT-ProperDrips.ogg><766.8426><446.2001><0.5><1, 
+FadePalette: 10, 0.2028986
