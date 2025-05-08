@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.1565217
+Grime: 0.5231881
+Palette: 23232323
+EffectColorB: 6
+AmbientSounds: DIR><AM_ENV-LightWind.ogg><756.3439><516.9695><0.5985506><1><-49.78943><0, DIR><AM_ENV-CityTone.ogg><710.5911><570.5417><0.331884><1><-180><0, 
+FadePalette: 21, 0

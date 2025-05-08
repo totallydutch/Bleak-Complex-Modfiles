@@ -1,4 +1,5 @@
 Template: NONE
 Clouds: 0.2318842
 Palette: 23232323
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><753.6307><565.8009><0.4014494><1, OMNI><Basic Mech.ogg><786.7529><440.1748><0.2507258><1, 
 FadePalette: 8, 0.1565217
