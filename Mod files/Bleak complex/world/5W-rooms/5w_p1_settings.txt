@@ -3,6 +3,6 @@ Clouds: 0.03478241
 Palette: 23232323
 EffectColorB: 6
 Effects: LightBurn-0.05217361-20-20, 
-PlacedObjects: DataPearl><152.5171><512.8119><0~0~37~50~Misc~0, DangleFruit><451.9438><433.4806><0~0~2~3, DangleFruit><521.9872><394.4388><0~0~2~3, DangleFruit><376.5844><420.2><0~0~2~3, LightSource><507.6873><359.0956><0.1188408~Environment~-32~340.5333~50~86.60254~1~0~None~0~0, LightSource><311.3193><239.3876><0.1652175~Environment~-17.06668~260~50~86.60254~1~0~None~0~0, LightSource><404.1166><351.1968><0.1999996~Environment~-297.0667~303.2~50~86.60254~1~1~None~0~0, FreeformDecalOrSprite><-46.62813><78.37471><100~50~0;0^890.4;-105.0667^1211.467;647.2^-8.533325;647.7334~p1.mp4~1~Basic~Foreground~106~False~FFFFFF, 
+PlacedObjects: DataPearl><152.5171><512.8119><0~0~37~50~Misc~0, DangleFruit><451.9438><433.4806><0~0~2~3, DangleFruit><521.9872><394.4388><0~0~2~3, DangleFruit><376.5844><420.2><0~0~2~3, LightSource><507.6873><359.0956><0.1188408~Environment~-32~340.5333~50~86.60254~1~0~None~0~0, LightSource><311.3193><239.3876><0.1652175~Environment~-17.06668~260~50~86.60254~1~0~None~0~0, LightSource><404.1166><351.1968><0.1999996~Environment~-297.0667~303.2~50~86.60254~1~1~None~0~0, ExitSymbolHidden><407.0049><165.8734><, 
 AmbientSounds: OMNI><AM_ENV-CityTone.ogg><744.25><560.7955><0.3608697><1, 
 FadePalette: 21, 0.1971016

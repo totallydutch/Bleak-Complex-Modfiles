@@ -1,0 +1,6 @@
+Template: NONE
+Palette: 23232323
+EffectColorB: 6
+Effects: LightBurn-0.04637677-20-20, 
+PlacedObjects: LightSource><343.4225><426.3569><0.2289853~Environment~-112~349.6~50~86.60254~1~1~None~0~0, LightSource><1074.209><216.8683><0.2057974~Environment~-344.5334~42.93329~-315.3333~112.7358~1~1~None~0~0, LightSource><1717.13><322.0268><0.1014497~Environment~-83.73334~393.3333~50~86.60254~1~0~None~0~0, LightSource><1538.242><363.6555><0.2579717~Environment~-43.20001~305.3333~50~86.60254~1~1~None~0~0, LightSource><2535.703><345.2733><0.2347823~Environment~-97.06671~342.1334~50~86.60254~1~1~None~0~0, LightSource><2665.6><341.3333><0.4028984~Environment~-97.06671~342.1334~50~86.60254~1~0~None~0~0, 
+FadePalette: 21, 0.1391305, 0.1333333, 0.1217391
