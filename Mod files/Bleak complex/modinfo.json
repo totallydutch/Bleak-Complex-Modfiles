@@ -1,7 +1,7 @@
 {
 	"id": "NAME",
 	"name": "Bleak complex",
-	"authors": "You",
+	"authors": "TotallyDutch",
 	"description": "Insert.",
 	"requirements": ["regionkit", "pom", "rwremix", "crs", "moreslugcats"],
 	"requirements_names": ["RegionKit", "Pom", "Rain World Remix", "Custom Regions Support", "moreslugcats"],
