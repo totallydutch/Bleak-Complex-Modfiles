@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.1449277
+Palette: 23232323
+EffectColorB: 6
+Effects: LightBurn-0.04057959-20-20, 
+PlacedObjects: LightSource><742.6628><268.9962><0.2115943~Environment~-667.7334~306.9333~50~86.60254~1~0~None~0~0, LightSource><728.5334><347.7334><0.356521~Environment~-508.8002~189.0666~50~86.60254~1~1~None~0~0, LightSource><1589.842><298.9914><0.2057966~Environment~-660.8~231.2~50~86.60254~1~0~None~0~0, LightSource><1531.574><335.661><0.3043478~Environment~-448~248.2666~50~86.60254~1~1~None~0~0, LightSource><1184.516><266.8037><0.1942026~Environment~-112~362.9333~50~86.60254~1~1~None~0~0, LightSource><2017.767><1049.115><0.3275359~Environment~-190.4~444.5334~50~86.60254~1~1~None~0~0, LightSource><2049.001><969.384><0.3275359~Environment~-300.8~511.2~50~86.60254~1~0~None~0~0, 
+FadePalette: 21, 0.2666666, 0.2724639, 0.2782608
