@@ -1,0 +1,5 @@
+Template: NONE
+Clouds: 0.06956515
+Palette: 23232323
+EffectColorA: 0
+EffectColorB: 6

@@ -1,8 +1,8 @@
 {
-	"id": "NAME",
+	"id": "TD5W",
 	"name": "Bleak complex",
 	"authors": "TotallyDutch",
-	"description": "Insert.",
+	"description": "WIP rainworld region",
 	"requirements": ["regionkit", "pom", "rwremix", "crs", "moreslugcats"],
 	"requirements_names": ["RegionKit", "Pom", "Rain World Remix", "Custom Regions Support", "moreslugcats"],
 	"tags": ["Regions"],
