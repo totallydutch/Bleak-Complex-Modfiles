@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.173913
+Palette: 23232323
+EffectColorB: 6
+Effects: Fog-0.7304346-20-20, 
+AmbientSounds: DIR><AM_ENV-NatWind.ogg><752.2488><487.1779><0.5><1><-14.45087><0, DIR><AM_ENV-LightWind.ogg><756.9917><563.4438><0.5><1><-75.96376><0, SPOT><AM_IND-Utility02.ogg><761.8712><373.287><0.5><1><1403.471><103.9537><-331.8887><-60.422><0><0.3202893, 
