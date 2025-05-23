@@ -1,5 +1,6 @@
 Template: NONE
-Clouds: 0.06956515
+Clouds: 0.1449273
 Palette: 23232323
 EffectColorA: 0
 EffectColorB: 6
+AmbientSounds: DIR><AM_ENV-LightWind.ogg><740.1807><522.9514><0.5><1><12.57848><0, SPOT><AM_IND-Utility02.ogg><739.048><454.7717><0.5><1><123.5814><283.0383><-169.7553><-98.82202><0><0.3550734, OMNI><AM_ENV-WinterHum.ogg><668.9555><91.36993><0.3144923><1, 

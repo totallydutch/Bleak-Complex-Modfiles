@@ -1,4 +1,5 @@
 Template: NONE
+Clouds: 0.1507247
 Palette: 23232323
 EffectColorB: 6
 Effects: LightBurn-0.04637677-20-20, 
