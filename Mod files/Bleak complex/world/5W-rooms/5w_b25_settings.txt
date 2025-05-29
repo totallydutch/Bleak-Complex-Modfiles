@@ -1,4 +1,10 @@
 Template: NONE
+DangerType: Flood
+WaveSpeed: 0.4923551
+WaveLength: 0.9961776
+WaveAmplitude: 0.03532197
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
 Clouds: 0.1391303
 Grime: 0.6507244
 Palette: 23232323
