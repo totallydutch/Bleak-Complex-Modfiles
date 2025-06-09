@@ -1,5 +1,10 @@
 Template: NONE
-DangerType: FloodAndRain
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 0.04828316
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
 Clouds: 0.1043479
 Palette: 23232323
 EffectColorA: 10
