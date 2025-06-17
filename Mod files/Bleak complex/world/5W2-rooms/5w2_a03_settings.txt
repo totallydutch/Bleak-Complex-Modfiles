@@ -1,2 +1,3 @@
 Template: NONE
 Palette: 3333
+FadePalette: 0, 0
