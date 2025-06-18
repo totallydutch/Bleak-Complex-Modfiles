@@ -1,5 +1,5 @@
 Template: NONE
-CeilingDrips: 0.6449273
+CeilingDrips: 0.7507252
 Clouds: 0.1043479
 BkgDroneVolume: 0
 BkgDroneNoThreatVolume: 0

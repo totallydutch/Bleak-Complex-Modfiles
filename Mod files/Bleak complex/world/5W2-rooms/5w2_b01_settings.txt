@@ -2,8 +2,6 @@ Template: NONE
 DangerType: Flood
 CeilingDrips: 0.5869565
 Clouds: 0.1101449
-BkgDroneVolume: 0
-BkgDroneNoThreatVolume: 0
 Palette: 3333
 EffectColorB: 13
 Effects: ModifyEffectColorB-0,0.3550725,0.3492754-20-20, 
