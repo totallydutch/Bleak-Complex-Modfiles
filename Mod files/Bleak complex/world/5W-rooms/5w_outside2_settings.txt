@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.1391303
+Palette: 23232323
+EffectColorB: 6
+Effects: Fog-0.07536216-20-20, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><388.2393><61.38445><0.3608694><1, SPOT><AM_ENV-WallHum.ogg><737.8909><426.6787><0.4420292><1><2190.707><335.4787><-528.1554><-160.1553><0><1, OMNI><AM_ENV-CityTone.ogg><714.5483><566.5742><0.326087><1, OMNI><AM_WIN_Hilltop.ogg><707.322><636.7542><0.3898548><1, 
