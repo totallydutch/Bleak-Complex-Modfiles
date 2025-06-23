@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|c:\\users\\holla\\downloads\\creaturefactory\\creaturefactory\\src\\fisobs\\creatures\\thelizord\\lizordcritob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|solutionrelative:fisobs\\creatures\\thelizord\\lizordcritob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|c:\\users\\holla\\downloads\\creaturefactory\\creaturefactory\\src\\cfenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|solutionrelative:cfenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|c:\\users\\holla\\downloads\\creaturefactory\\creaturefactory\\src\\fisobs\\creatures\\thelizord\\lizordhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|solutionrelative:fisobs\\creatures\\thelizord\\lizordhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|c:\\users\\holla\\downloads\\creaturefactory\\creaturefactory\\src\\plugin.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|solutionrelative:plugin.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|c:\\users\\holla\\downloads\\creaturefactory\\creaturefactory\\src\\lizordagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|solutionrelative:lizordagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|c:\\users\\holla\\downloads\\creaturefactory\\creaturefactory\\src\\fisobs\\creatures\\thelizord\\sepializard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBED0916-5510-4BA8-931E-8D06B29F6D63}|CreatureFactory.csproj|solutionrelative:fisobs\\creatures\\thelizord\\sepializard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plugin.cs.cs",
+              "DocumentMoniker": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\Plugin.cs.cs",
+              "RelativeDocumentMoniker": "Plugin.cs.cs",
+              "ToolTip": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\Plugin.cs.cs",
+              "RelativeToolTip": "Plugin.cs.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:53:20.439Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SepiaLizard.cs",
+              "DocumentMoniker": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\Fisobs\\Creatures\\TheLizord\\SepiaLizard.cs",
+              "RelativeDocumentMoniker": "Fisobs\\Creatures\\TheLizord\\SepiaLizard.cs",
+              "ToolTip": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\Fisobs\\Creatures\\TheLizord\\SepiaLizard.cs",
+              "RelativeToolTip": "Fisobs\\Creatures\\TheLizord\\SepiaLizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:51:18.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LizordAgain.cs",
+              "DocumentMoniker": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\LizordAgain.cs",
+              "RelativeDocumentMoniker": "LizordAgain.cs",
+              "ToolTip": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\LizordAgain.cs",
+              "RelativeToolTip": "LizordAgain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:47:11.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LizordHooks.cs",
+              "DocumentMoniker": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\Fisobs\\Creatures\\TheLizord\\LizordHooks.cs",
+              "RelativeDocumentMoniker": "Fisobs\\Creatures\\TheLizord\\LizordHooks.cs",
+              "ToolTip": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\Fisobs\\Creatures\\TheLizord\\LizordHooks.cs",
+              "RelativeToolTip": "Fisobs\\Creatures\\TheLizord\\LizordHooks.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAqwHwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:37:22.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LizordCritob.cs",
+              "DocumentMoniker": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\Fisobs\\Creatures\\TheLizord\\LizordCritob.cs",
+              "RelativeDocumentMoniker": "Fisobs\\Creatures\\TheLizord\\LizordCritob.cs",
+              "ToolTip": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\Fisobs\\Creatures\\TheLizord\\LizordCritob.cs",
+              "RelativeToolTip": "Fisobs\\Creatures\\TheLizord\\LizordCritob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:15:32.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CFEnums.cs",
+              "DocumentMoniker": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\CFEnums.cs",
+              "RelativeDocumentMoniker": "CFEnums.cs",
+              "ToolTip": "C:\\Users\\holla\\Downloads\\CreatureFactory\\CreatureFactory\\src\\CFEnums.cs",
+              "RelativeToolTip": "CFEnums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:11:57.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
