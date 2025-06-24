@@ -1,8 +1,9 @@
 Template: NONE
 DangerType: Flood
 CeilingDrips: 0.5869565
-Clouds: 0.1101449
+Clouds: 0.2318842
+BkgDroneVolume: 0.1260867
 Palette: 3333
 EffectColorB: 13
-Effects: ModifyEffectColorB-0,0.3550725,0.3492754-20-20, 
-AmbientSounds: OMNI><AM_ENV-CityTone.ogg><550.5428><19.39585><0.1521739><1, OMNI><AM_SUB-CaveTone.ogg><382.9176><20.11362><0.494203><1, OMNI><AM_SUB-BlankState.ogg><213.9802><20.63113><0.2971019><1, OMNI><SO_WAT-LilDrips.ogg><720.689><18.6521><0.5><1, SPOT><basic mech.ogg><708.3149><352.1474><0.5><1><124.8482><472.6808><-35.35534><-35.35534><0><0.5521738, OMNI><am_env-subterr.ogg><885.0452><21.51002><0.4130442><1, 
+Effects: ModifyEffectColorB-0,0.3550725,0.3492754-20-20, WaterDepth-0-30-30, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><550.5428><19.39585><0.1521739><1, OMNI><AM_SUB-CaveTone.ogg><382.9176><20.11362><0.3144923><1, OMNI><AM_SUB-BlankState.ogg><213.9802><20.63113><0.2971019><1, OMNI><SO_WAT-LilDrips.ogg><720.689><18.6521><0.5><1, SPOT><basic mech.ogg><708.3149><352.1474><0.5><1><124.8482><472.6808><-35.35534><-35.35534><0><0.5521738, OMNI><am_env-subterr.ogg><885.0452><21.51002><0.3144938><0.8330441, 

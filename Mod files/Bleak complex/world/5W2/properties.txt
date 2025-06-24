@@ -1,0 +1,12 @@
+Palette: 3333
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.5
+overseersMin: 0
+overseersMax: 4
+playerGuideOverseerSpawnChance: 0.7
+Subregion: Sepia Railway, Industrial Station, Underrail
+Broken Shelters: Red: HI_S03
+Room Setting Templates: Rail, underrail
