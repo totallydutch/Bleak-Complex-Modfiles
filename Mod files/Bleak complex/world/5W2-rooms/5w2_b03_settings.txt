@@ -1,0 +1,5 @@
+Template: 5w2_settingstemplate_underrail
+CeilingDrips: 0.6217386
+Clouds: 0.1384055
+Grime: 0.894928
+Effects: ModifyEffectColorB-0.9913042,0.3318841,0.2159421-30-30, Beetle-0.1159421-34.93335--4, Flies-0.04637693-27.19998-116.2667, 
