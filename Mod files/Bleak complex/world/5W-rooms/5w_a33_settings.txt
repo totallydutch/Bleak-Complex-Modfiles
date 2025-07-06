@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.2202898
+Palette: 23232323
+EffectColorA: 9
+EffectColorB: 2
+Effects: ModifyEffectColorA-0.7710145,0,0.262319-20-20, RockFlea-0.06956532-15.60001-113.2, Fog-0.06956515-30-30, 
