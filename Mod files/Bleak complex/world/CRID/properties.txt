@@ -1,0 +1,11 @@
+Palette: 54545454
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.5
+overseersMin: 1
+overseersMax: 6
+playerGuideOverseerSpawnChance: 0.7
+Subregion: Sepia Railway, Industrial Station, Underrail
+Room Setting Templates: inside, outside

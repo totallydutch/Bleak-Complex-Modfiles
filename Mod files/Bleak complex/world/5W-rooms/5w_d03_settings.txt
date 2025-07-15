@@ -1,5 +1,5 @@
 Template: NONE
-Clouds: 0.1159419
+Clouds: 0.2782606
 Palette: 23232323
 EffectColorA: 9
 FadePalette: 8, 0.1101449, 0.1217393, 0.1043477, 0.1159421
